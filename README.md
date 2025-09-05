@@ -31,7 +31,7 @@ cd python-magic-8-ball
 4. Run the game:
 
 ```bash
-python magic-eight-ball-game.py
+python python-magic-8-ball.py
 ```
 
 ---
@@ -65,4 +65,3 @@ Ask your question
 >> exit
 See you next time!
 ```
-
