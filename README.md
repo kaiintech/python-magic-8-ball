@@ -19,7 +19,7 @@ Type a question, press Enter, and receive a random answer from the pre-defined l
 2. Clone this repository:
 
 ```bash
-git clone <https://github.com/kaiintech/python-magic-8-ball.git>
+git clone https://github.com/kaiintech/python-magic-8-ball.git
 ```
 
 3. Navigate into the project folder:
