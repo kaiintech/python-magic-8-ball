@@ -1,6 +1,6 @@
 # Magic 8-Ball Python
 
-A simple **Magic 8-Ball** game built in Python that answers user questions at random.
+A simple **Magic 8-Ball** game built in Python that answers your questions at random.
 Type a question, press Enter, and receive a random answer from the pre-defined list.
 
 ---
@@ -25,13 +25,13 @@ git clone https://github.com/kaiintech/python-magic-8-ball.git
 3. Navigate into the project folder:
 
 ```bash
-cd magic-8-ball
+cd python-magic-8-ball
 ```
 
 4. Run the game:
 
 ```bash
-python magic_8_ball.py
+python magic-eight-ball-game.py
 ```
 
 ---
@@ -65,10 +65,4 @@ Ask your question
 >> exit
 See you next time!
 ```
-
----
-
-## License
-
-This project is **open source** and free to use.
 
