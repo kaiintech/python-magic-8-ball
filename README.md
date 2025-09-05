@@ -10,8 +10,6 @@ Type a question, press Enter, and receive a random answer from the pre-defined l
 * Randomized answers to your questions
 * Easy to use via the terminal
 * Type `'exit'` to quit the game
-* Clean, professional Python script
-* Expandable response list
 
 ---
 
